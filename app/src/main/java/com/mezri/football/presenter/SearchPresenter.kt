@@ -4,7 +4,6 @@ import com.mezri.football.data.model.Team
 import com.mezri.football.data.network.repository.ErrorCode
 import com.mezri.football.data.network.repository.RepositoryInterface
 import com.mezri.football.data.network.repository.RepositoryResponse
-import com.mezri.football.ui.fragment.PresenterError
 import com.mezri.football.ui.fragment.SearchFragmentInterface
 import kotlinx.coroutines.*
 import kotlin.coroutines.CoroutineContext
